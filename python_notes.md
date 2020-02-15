@@ -10,6 +10,7 @@ Topics covered:
 Somewhat like a list, with values separated by commas and accessed by integers  
 ```
 Tuple = ('hi' , 'world')  
+```
 
 ### Dictionary
 
