@@ -1,0 +1,6 @@
+User:imanheizer@gmail.com 12/05/2020 04:51:47 PM: DEBUG: main Line:17 This is a debug message
+User:imanheizer@gmail.com 12/05/2020 04:51:47 PM: INFO: main Line:18 This is an info message
+User:imanheizer@gmail.com 12/05/2020 04:51:47 PM: WARNING: main Line:19 This is a warning message
+User:imanheizer@gmail.com 12/05/2020 04:51:47 PM: ERROR: main Line:20 This is an error message
+User:imanheizer@gmail.com 12/05/2020 04:51:47 PM: CRITICAL: main Line:21 This is a critical message
+User:imanheizer@gmail.com 12/05/2020 04:51:47 PM: INFO: main Line:23 This is a string hello and this is an int 4
